@@ -54,7 +54,7 @@ public class MainActivity extends Activity {
      *
      *   Paste it below (where you see "YOUR API TOKEN")
      */
-    public static final String MIXPANEL_API_TOKEN = "fa45c697d1c664abb760166578f91f24";
+    public static final String MIXPANEL_API_TOKEN = "d6f7392cd6d34de1dbd17e41ba8080d6";
 
     /*
      * In order for your app to receive push notifications, you will need to enable
