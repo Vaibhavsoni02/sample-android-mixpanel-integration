@@ -1,3 +1,21 @@
+## At a glance
+
+**Created:** 2024-07-19
+
+### Problem
+Needed a concrete Android example of shipping product analytics with Mixpanel.
+
+### Solution
+A sample Android app showing Mixpanel setup and event tracking.
+
+### Outcome
+A reference implementation for analytics instrumentation in Android apps.
+
+### Links
+- GitHub: https://github.com/Vaibhavsoni02/sample-android-mixpanel-integration
+- Project page: https://vaibhav.pocpe.com/sample-android-mixpanel-integration/
+
+---
 # Sample Android Application for Mixpanel Integration
 
 This repository contains a sample application demonstrating how you
